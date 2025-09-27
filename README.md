@@ -1,6 +1,7 @@
 # Step 1: Create CONDA environment
 ```bash
 conda create -n droid python=3.10
+conda activate droid
 ```
 
 # Step 2: Install gsutil
